@@ -1,0 +1,23 @@
+/* Define default background color, text color, and font styles */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Style for all h1 tags */
+h1 {
+    font-size: 2em;
+    color: #222;
+    font-style: italic;
+    text-align: center;
+}
+
+/* Class as specified */
+.hbar1 {
+    display: inline;
+    margin: 15px;
+}
+
+

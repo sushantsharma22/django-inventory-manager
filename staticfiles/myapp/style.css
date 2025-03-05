@@ -1,0 +1,38 @@
+/* General styling */
+body {
+    background-color: #f8f9fa; /* Light gray */
+    color: #333; /* Dark text */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #007bff; /* Blue */
+}
+
+/* Category Details */
+p {
+    font-size: 18px;
+}
+
+/* Product List */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    font-size: 16px;
+    color: #000;
+}
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
